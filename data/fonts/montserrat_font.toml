@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Montserrat"
+
+# Optional Google font URL
+google_fonts = "family=Montserrat:wght@100"
+
+# Font families
+heading_font = "Regular 400"
+body_font = "Thin 100"
+nav_font = "Extra-light 200 italic"
+mono_font = "Extra-light 200 italic"
