@@ -4,6 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  name = "Landing 2022"
+  url = "landing/"
+  weight = 2
+
+[[main]]
   name = "Home"
   url = "#about"
   weight = 10
